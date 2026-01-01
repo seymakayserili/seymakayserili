@@ -19,7 +19,10 @@ Aynı zamanda **SEO odaklı web geliştirme**, site içi optimizasyon ve perform
 **Frontend**
 - HTML5
 - CSS3 (Responsive Design, Flexbox, Grid)
+- Bootstrap
+- Tailwind
 - JavaScript (ES6+)
+- React
 
 **SEO & Analiz**
 - Google Analytics
